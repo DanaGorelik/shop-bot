@@ -1,0 +1,72 @@
+{
+  "_note": "Dates are stored as 'days ago' and turned into real dates when the database is built, so the demo stays coherent whenever you run it. Phone numbers are fictional.",
+  "orders": [
+    {
+      "id": "ORD-5001",
+      "customer_phone": "+12025550143",
+      "status": "shipped",
+      "placed_days_ago": 3,
+      "delivered_days_ago": null,
+      "carrier": "Swift Parcel",
+      "tracking_number": "SP48213907",
+      "shipping_cost": 0,
+      "items": [
+        {"product_id": "P-1003", "color": "cream", "size": "M", "quantity": 1},
+        {"product_id": "P-1013", "color": "grey", "size": "One size", "quantity": 1}
+      ]
+    },
+    {
+      "id": "ORD-5002",
+      "customer_phone": "+12025550143",
+      "status": "delivered",
+      "placed_days_ago": 13,
+      "delivered_days_ago": 9,
+      "carrier": "Swift Parcel",
+      "tracking_number": "SP47120355",
+      "shipping_cost": 0,
+      "items": [
+        {"product_id": "P-1005", "color": "indigo", "size": "32", "quantity": 1}
+      ]
+    },
+    {
+      "id": "ORD-5003",
+      "customer_phone": "+12025550143",
+      "status": "delivered",
+      "placed_days_ago": 48,
+      "delivered_days_ago": 44,
+      "carrier": "Swift Parcel",
+      "tracking_number": "SP44090218",
+      "shipping_cost": 0,
+      "items": [
+        {"product_id": "P-1010", "color": "black", "size": "L", "quantity": 1}
+      ]
+    },
+    {
+      "id": "ORD-5004",
+      "customer_phone": "+12025550178",
+      "status": "processing",
+      "placed_days_ago": 1,
+      "delivered_days_ago": null,
+      "carrier": null,
+      "tracking_number": null,
+      "shipping_cost": 0,
+      "items": [
+        {"product_id": "P-1008", "color": "terracotta", "size": "S", "quantity": 1},
+        {"product_id": "P-1014", "color": "natural", "size": "One size", "quantity": 1}
+      ]
+    },
+    {
+      "id": "ORD-5005",
+      "customer_phone": "+12025550178",
+      "status": "cancelled",
+      "placed_days_ago": 20,
+      "delivered_days_ago": null,
+      "carrier": null,
+      "tracking_number": null,
+      "shipping_cost": 25,
+      "items": [
+        {"product_id": "P-1001", "color": "black", "size": "M", "quantity": 2}
+      ]
+    }
+  ]
+}

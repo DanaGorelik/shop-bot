@@ -1,0 +1,449 @@
+{
+ "currency": "ILS",
+ "products": [
+  {
+   "id": "P-1001",
+   "name": "Classic Cotton Tee",
+   "category": "tops",
+   "price": 89,
+   "description": "Everyday crew-neck t-shirt in soft midweight cotton. Works on its own or layered under a shirt or sweater.",
+   "fabric": "100% organic cotton jersey",
+   "fit_note": "True to size.",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": {
+    "white": {
+     "XS": 5,
+     "S": 2,
+     "M": 14,
+     "L": 12,
+     "XL": 17
+    },
+    "black": {
+     "XS": 3,
+     "S": 3,
+     "M": 18,
+     "L": 4,
+     "XL": 2
+    },
+    "navy": {
+     "XS": 13,
+     "S": 0,
+     "M": 18,
+     "L": 10,
+     "XL": 18
+    }
+   }
+  },
+  {
+   "id": "P-1002",
+   "name": "Linen Relaxed Shirt",
+   "category": "tops",
+   "price": 249,
+   "description": "Breathable long-sleeve button-up shirt for hot weather. Relaxed cut, good for the beach, holidays and summer evenings.",
+   "fabric": "100% linen",
+   "fit_note": "Runs large. If you are between sizes, take the smaller one.",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": {
+    "white": {
+     "XS": 0,
+     "S": 6,
+     "M": 0,
+     "L": 7,
+     "XL": 18
+    },
+    "sand": {
+     "XS": 2,
+     "S": 16,
+     "M": 14,
+     "L": 15,
+     "XL": 15
+    },
+    "olive": {
+     "XS": 8,
+     "S": 0,
+     "M": 0,
+     "L": 16,
+     "XL": 15
+    }
+   }
+  },
+  {
+   "id": "P-1003",
+   "name": "Merino Crew Sweater",
+   "category": "knitwear",
+   "price": 389,
+   "description": "Fine-knit warm sweater for autumn and winter. Light enough to wear under a jacket, soft and not itchy.",
+   "fabric": "100% merino wool",
+   "fit_note": "Slim fit. Size up for a looser look.",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": {
+    "charcoal": {
+     "XS": 3,
+     "S": 0,
+     "M": 0,
+     "L": 16,
+     "XL": 3
+    },
+    "cream": {
+     "XS": 11,
+     "S": 12,
+     "M": 15,
+     "L": 0,
+     "XL": 0
+    },
+    "forest green": {
+     "XS": 3,
+     "S": 0,
+     "M": 15,
+     "L": 13,
+     "XL": 12
+    }
+   }
+  },
+  {
+   "id": "P-1004",
+   "name": "Chunky Wool Cardigan",
+   "category": "knitwear",
+   "price": 459,
+   "description": "Thick, cosy button-up cardigan with two front pockets. A warm winter layer for cold days at home or outside.",
+   "fabric": "70% wool, 30% recycled polyester",
+   "fit_note": "Oversized fit.",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": {
+    "oatmeal": {
+     "S": 0,
+     "M": 6,
+     "L": 16,
+     "XL": 0
+    },
+    "navy": {
+     "S": 5,
+     "M": 13,
+     "L": 16,
+     "XL": 0
+    }
+   }
+  },
+  {
+   "id": "P-1005",
+   "name": "Slim Stretch Jeans",
+   "category": "bottoms",
+   "price": 329,
+   "description": "Mid-rise slim jeans with a little stretch for comfort. Sized by waist in inches.",
+   "fabric": "98% cotton, 2% elastane denim",
+   "fit_note": "Slim through the leg. Size up for a relaxed fit.",
+   "sizes": [
+    "28",
+    "30",
+    "32",
+    "34",
+    "36"
+   ],
+   "stock": {
+    "indigo": {
+     "28": 18,
+     "30": 5,
+     "32": 18,
+     "34": 14,
+     "36": 13
+    },
+    "black": {
+     "28": 5,
+     "30": 0,
+     "32": 8,
+     "34": 0,
+     "36": 6
+    }
+   }
+  },
+  {
+   "id": "P-1006",
+   "name": "Wide-Leg Linen Trousers",
+   "category": "bottoms",
+   "price": 299,
+   "description": "Flowing high-waisted trousers with an elastic back waistband. Cool and comfortable for summer and for the office.",
+   "fabric": "100% linen",
+   "fit_note": "High waist, loose leg. True to size.",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": {
+    "sand": {
+     "XS": 1,
+     "S": 0,
+     "M": 11,
+     "L": 17,
+     "XL": 2
+    },
+    "black": {
+     "XS": 18,
+     "S": 13,
+     "M": 16,
+     "L": 2,
+     "XL": 7
+    }
+   }
+  },
+  {
+   "id": "P-1007",
+   "name": "Chino Shorts",
+   "category": "bottoms",
+   "price": 199,
+   "description": "Smart casual cotton shorts for warm days. Sized by waist in inches.",
+   "fabric": "100% cotton twill",
+   "fit_note": "Regular fit, ends just above the knee.",
+   "sizes": [
+    "28",
+    "30",
+    "32",
+    "34",
+    "36"
+   ],
+   "stock": {
+    "khaki": {
+     "28": 4,
+     "30": 2,
+     "32": 0,
+     "34": 18,
+     "36": 0
+    },
+    "navy": {
+     "28": 1,
+     "30": 0,
+     "32": 13,
+     "34": 0,
+     "36": 12
+    }
+   }
+  },
+  {
+   "id": "P-1008",
+   "name": "Wrap Midi Dress",
+   "category": "dresses",
+   "price": 349,
+   "description": "Mid-length wrap dress with short sleeves and a tie waist. Suitable for weddings, dinners and events as well as daytime.",
+   "fabric": "100% viscose",
+   "fit_note": "Adjustable wrap waist. True to size.",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": {
+    "terracotta": {
+     "XS": 16,
+     "S": 0,
+     "M": 15,
+     "L": 10,
+     "XL": 0
+    },
+    "navy floral": {
+     "XS": 0,
+     "S": 9,
+     "M": 6,
+     "L": 7,
+     "XL": 17
+    }
+   }
+  },
+  {
+   "id": "P-1009",
+   "name": "Linen Summer Dress",
+   "category": "dresses",
+   "price": 379,
+   "description": "Sleeveless lightweight dress with side pockets. Made for very hot days, holidays and the beach.",
+   "fabric": "100% linen",
+   "fit_note": "Loose A-line shape. True to size.",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L"
+   ],
+   "stock": {
+    "white": {
+     "XS": 18,
+     "S": 17,
+     "M": 3,
+     "L": 9
+    },
+    "sky blue": {
+     "XS": 6,
+     "S": 8,
+     "M": 17,
+     "L": 8
+    }
+   }
+  },
+  {
+   "id": "P-1010",
+   "name": "Quilted Puffer Jacket",
+   "category": "outerwear",
+   "price": 599,
+   "description": "Warm padded winter jacket with a high collar and zip pockets. Water-repellent, for cold and light rain.",
+   "fabric": "Recycled polyester shell and filling",
+   "fit_note": "Regular fit with room for a sweater underneath.",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": {
+    "black": {
+     "S": 7,
+     "M": 13,
+     "L": 2,
+     "XL": 16
+    },
+    "olive": {
+     "S": 1,
+     "M": 9,
+     "L": 7,
+     "XL": 12
+    }
+   }
+  },
+  {
+   "id": "P-1011",
+   "name": "Denim Trucker Jacket",
+   "category": "outerwear",
+   "price": 449,
+   "description": "Classic denim jacket with button front and chest pockets. A light layer for spring and autumn evenings.",
+   "fabric": "100% cotton denim",
+   "fit_note": "Boxy, slightly cropped fit.",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": {
+    "mid blue": {
+     "S": 12,
+     "M": 12,
+     "L": 0,
+     "XL": 0
+    }
+   }
+  },
+  {
+   "id": "P-1012",
+   "name": "Waterproof Rain Coat",
+   "category": "outerwear",
+   "price": 529,
+   "description": "Fully waterproof hooded coat that reaches mid-thigh. For heavy rain and wind.",
+   "fabric": "Polyurethane-coated polyester, taped seams",
+   "fit_note": "Long, roomy fit.",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": {
+    "yellow": {
+     "S": 11,
+     "M": 1,
+     "L": 12,
+     "XL": 3
+    },
+    "navy": {
+     "S": 4,
+     "M": 7,
+     "L": 6,
+     "XL": 11
+    }
+   }
+  },
+  {
+   "id": "P-1013",
+   "name": "Wool Scarf",
+   "category": "accessories",
+   "price": 149,
+   "description": "Soft, warm winter scarf with fringed ends. A popular gift.",
+   "fabric": "100% lambswool",
+   "fit_note": "180 cm x 30 cm.",
+   "sizes": [
+    "One size"
+   ],
+   "stock": {
+    "grey": {
+     "One size": 0
+    },
+    "burgundy": {
+     "One size": 13
+    }
+   }
+  },
+  {
+   "id": "P-1014",
+   "name": "Canvas Tote Bag",
+   "category": "accessories",
+   "price": 79,
+   "description": "Sturdy everyday shopping and beach bag with an inside pocket.",
+   "fabric": "Heavy cotton canvas",
+   "fit_note": "38 cm x 42 cm, long handles.",
+   "sizes": [
+    "One size"
+   ],
+   "stock": {
+    "natural": {
+     "One size": 3
+    }
+   }
+  },
+  {
+   "id": "P-1015",
+   "name": "Cotton Pyjama Set",
+   "category": "sleepwear",
+   "price": 219,
+   "description": "Long-sleeve shirt and trousers pyjama set with a drawstring waist. Crisp, breathable cotton for sleeping.",
+   "fabric": "100% cotton poplin",
+   "fit_note": "Relaxed fit.",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "stock": {
+    "striped blue": {
+     "S": 6,
+     "M": 1,
+     "L": 15,
+     "XL": 5
+    }
+   }
+  }
+ ]
+}
